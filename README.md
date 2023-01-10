@@ -23,7 +23,7 @@
 
 &nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="bassantmedhat49@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://www.flaticon.com/free-icon/laptop_988053" width="50" /></a>
+&nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/JKcMT0t/laptop.png" width="50" /></a>
 </p>
 
 <!---
