@@ -1,15 +1,21 @@
-- 👋 Hi, I’m @bassantmedhat
+<div id="welcome" align="center">
+  <img src="https://www.reef2reef.com/attachments/welcome-5-gif.2920198/" width="400"/> 
+</div>
+
+---
+
+- 👋  Hi, I’m @bassantmedhat
 - 👀 I’m interested in Machine Learnning and biomedical field
 - 🌱 I’m currently learning Algorithms and Digital Signal Processing
 ---
 
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 
 - 💻 &nbsp; Python | JavaScript | C++  
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
----
+- 
 <!--stars  -->
 ![Bassant's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassantmedhat&show_icons=true&theme=transparent&hide=contribs)
 
