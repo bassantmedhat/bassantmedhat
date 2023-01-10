@@ -32,7 +32,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   <div id="badges">
   &nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="80" /></a>
-&nbsp; <a href="bassantmedhat49@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
+&nbsp; <a href="mailto:bassantmedhat49@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="80" /></a>
 &nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/JKcMT0t/laptop.png" width="80" /></a>
 
 </div>
