@@ -23,7 +23,7 @@
 
 &nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="bassantmedhat49@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="bassantmedhat49@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://www.freepik.com/free-icon/gmail_14186797.htm#query=gmail&position=2&from_view=search&track=sph" width="50" /></a>
+&nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://www.freepik.com/free-icon/laptop_15235911.htm#query=leet%20code&position=19&from_view=search&track=ais" width="50" /></a>
 </p>
 
 <!---
