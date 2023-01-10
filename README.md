@@ -10,27 +10,17 @@
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
 
+<!--stars  -->
+![Bassant's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassantmedhat&show_icons=true&theme=transparent&hide=contribs)
+
+
+<!--languages  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassantmedhat&layout=compact&text_color=daf7dc&bg_color=151515&theme=transparent)](https://github.com/bassantmedhat/github-readme-stats)
 
 
 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassantmedhat&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
-
-</br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassantmedhat&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bassantmedhat/github-readme-stats)
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 allign="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
 
@@ -38,6 +28,21 @@
 &nbsp; <a href="bassantmedhat49@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="https://linkedin.com/in/bassant-medhat-495bb3227" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/JKcMT0t/laptop.png" width="50" /></a>
 </p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
 
 <!---
 bassantmedhat/bassantmedhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
