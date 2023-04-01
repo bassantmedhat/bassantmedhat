@@ -1,5 +1,5 @@
 
-- 👋  Hi, I’m @bassantmedhat
+- 👋  Hi, I’m bassantmedhat
 - 👀 I’m interested in Machine Learnning and biomedical field
 - 🌱 I’m currently learning Algorithms and Digital Signal Processing
 
