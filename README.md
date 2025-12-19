@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Algorithms and Digital Signal Processing
 
 
-<div id="welcome" align="center">
+<!-- <div id="welcome" align="center">
   <img src="https://www.reef2reef.com/attachments/welcome-5-gif.2920198/" width="400"/> 
-</div>
+</div> -->
 
 ---
 
